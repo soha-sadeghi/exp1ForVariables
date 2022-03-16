@@ -6,5 +6,7 @@ public class Main {
         int a = 1000;
         float b = 5.004f;
         System.out.println(a);
+        System.out.println(b);
+
     }
 }
